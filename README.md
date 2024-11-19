@@ -37,6 +37,9 @@ The data can be requested by a POST method to the API endpoints / webservice URL
    {
     "message": "History updated"
   }
+UML Diagram: 
+![Microservice A UML](https://github.com/user-attachments/assets/cd5826c8-f5ad-4934-96bb-39fb03621c38)
+
    
 Mitigation Plan:
 1.	For which teammate did you implement “Microservice A”
